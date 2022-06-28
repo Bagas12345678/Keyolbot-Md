@@ -18,13 +18,13 @@ global.APIKeys = {
 }
 
 // Owner
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.ownernomer = '6281575886399'
-global.premium = ['6281575886399']
-global.ownername = 'Keyol Keren'
-global.botname = 'Keyolbot-Md'
+global.owner = ['62881010244718','62881010244718','62881010244718']
+global.ownernomer = '62881010244718'
+global.premium = ['62881010244718']
+global.ownername = 'BagasOFFCIAL'
+global.botname = 'BAGAS-Md'
 global.footer = 'Keyolbot-Md'
-global.email = 'selawikwok@gmail.com'
+global.email = 'stoktiktok41@gmail.com'
 global.ig = 'https://instagram.com/shelaaa817'
 global.region = 'Planet China'
 
@@ -33,7 +33,7 @@ global.myweb = 'https://api-riych.herokuapp.com/'
 global.sc = 'https://github.com/Keyols/Keyolbot-Md'
 
 // Wm
-global.packname = 'Keyolbot-Md'
+global.packname = 'Bagas-Md'
 global.author = 'WhatsApp Bot Multi-Device'
 
 // Thumb & Image random
